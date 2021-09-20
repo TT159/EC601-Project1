@@ -28,7 +28,7 @@ From my perspective, this application can be widely used in the medical field. A
 I think that under different training algorithms, the accuracy of recognition and prediction is different. Thus, I am curious how to improve the accuracy of image recognition. What excites me the most is that we humans are able to correct the natural course of our body by ourselves so as to extend life and exert our value.
 
 ## Literature Review
-In this part, I read some diferent papers related to this field in research community and industry. 
+In this part, I read some different papers related to this field in research community and industry. 
 - Research 1 [3]. In this paper, the process of radiomics starts with delineating the region of interest, that is, the tumor, in an imaging study and then extracting quantitative data from the segmented volumes and entering them, as well as other clinical and genomic data, into a database. This database is subsequently analyzed, with use of artificial intelligence, machine learning, and/or statistical analysis, to predict the diagnosis and outcome.
 
 - Research 2 [4]. In this paper, the first step is: Image Selection and Annotation Processing. They drawn the Regions of interest (ROIs) corresponding to enhancing necrotic portions of tumor and peritumoral edema. Then, quantitative image features were derived from these ROIs. After getting the data, they performed a statistical analysis on the robustness of the image feature.  
